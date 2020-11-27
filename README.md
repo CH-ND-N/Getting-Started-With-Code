@@ -2,8 +2,9 @@
 >This is to help learners who have just started to learn code.
 # CONTACT THE AUTHOR
 
-[![Linkedin](https://badges.gitter.im/MSRC-CCF/community.svg)](https://gitter.im/MSRC-CCF/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://dev.azure.com/MSRC-CCF/CCF/_apis/build/status/CCF%20Github%20CI?branchName=master)](https://dev.azure.com/MSRC-CCF/CCF/_build/latest?definitionId=3&branchName=master)
-[![Docs](https://img.shields.io/badge/Docs-succeeded-green)](https://microsoft.github.io/CCF) ![Build and Publish Release Containers](https://github.com/microsoft/CCF/workflows/Build%20and%20Publish%20Release%20Containers/badge.svg)
+[![twitter](http://i.imgur.com/tXSoThF.png)](https://www.linkedin.com/in/chandan-kr-44aaa51b6/)
+[![Gmail](http://i.imgur.com/yCsTjba.png)](https://mail.google.com/mail/u/0/#inbox)
+[![Facebook](https://img.shields.io/badge/Chat_on-Facebook-<COLOR>.svg)](https://www.facebook.com/profile.php?id=100053187492538)
 ## Contribute
 
 Contributions are always welcome!
