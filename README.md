@@ -1,5 +1,5 @@
 # Getting-Started-With-Code
->This is to help learners who have just started to learn code..
+>This is to help learners who have just started to learn code.
 # CONTACT THE AUTHOR
 
 [![Github](http://i.imgur.com/0o48UoR.png)](https://github.com/CH-ND-N)
@@ -14,12 +14,15 @@ Please read the [contribution guidelines](CONTRIBUTION.md) first.
 
 ## How To
 1. **Fork** the Project
-2. Create your **Feature Branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your **Feature Branch**
+3. **Commit** your Changes
+4. **Push** to the Branch 
 5. Open a **Pull Request**
 
 ## Contents
+- Codes to start with [C](https://github.com/CH-ND-N/Getting-Started-With-Code/tree/main/Some%20Codes%20To%20Try/c).
+
+- Codes to start with [C++](https://github.com/CH-ND-N/Getting-Started-With-Code/tree/main/Some%20Codes%20To%20Try/C%2B%2B).
 ## Pull requests welcome!
 
 Spotted an **error**? Something doesn't make **sense**? Send me a [pull
