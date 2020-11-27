@@ -2,9 +2,10 @@
 >This is to help learners who have just started to learn code.
 # CONTACT THE AUTHOR
 
-[![twitter](http://i.imgur.com/tXSoThF.png)](https://www.linkedin.com/in/chandan-kr-44aaa51b6/)
+[![Github](http://i.imgur.com/0o48UoR.png)](https://github.com/CH-ND-N)
+[![twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/Ch_nd_n?s=08)
 [![Gmail](http://i.imgur.com/yCsTjba.png)](https://mail.google.com/mail/u/0/#inbox)
-[![Facebook](https://img.shields.io/badge/Chat_on-Facebook-<COLOR>.svg)](https://www.facebook.com/profile.php?id=100053187492538)
+[![Facebook](http://i.imgur.com/P3YfQoD.png )](https://www.facebook.com/profile.php?id=100053187492538)
 ## Contribute
 
 Contributions are always welcome!
