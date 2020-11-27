@@ -20,6 +20,8 @@ Please read the [CONTRIBUTION](CONTRIBUTION.md) first.
 4. **Push** to the Branch 
 5. Open a **Pull Request**
 
+You can further refer to the resources [**here**](HOWTO.md).
+
 ## Contents
 - Codes to start with [C](https://github.com/CH-ND-N/Getting-Started-With-Code/tree/main/Some%20Codes%20To%20Try/c).
 
