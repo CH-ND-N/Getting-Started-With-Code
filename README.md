@@ -10,7 +10,7 @@
 
 Contributions are always welcome!
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-Please read the [contribution guidelines](CONTRIBUTION.md) first.
+Please read the [CONTRIBUTION](CONTRIBUTION.md) first.
 
 ## How To
 1. **Fork** the Project
