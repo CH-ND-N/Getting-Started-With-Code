@@ -31,4 +31,5 @@ You can further refer to the resources [**here**](HOWTO.md).
 Spotted an **error**? Something doesn't make **sense**? Send me a [pull
 request](https://github.com/noffle/art-of-readme/pulls)! Please avoid making
 **stylistic** changes though -- they are unlikely to be accepted. **Thanks!**
+******************************************************************************************************************************************************************
 
