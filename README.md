@@ -26,7 +26,7 @@ You can further refer to the resources [**here**](HOWTO.md).
 - Codes to start with [C](https://github.com/CH-ND-N/Getting-Started-With-Code/tree/main/Some%20Codes%20To%20Try/c).
 
 - Codes to start with [C++](https://github.com/CH-ND-N/Getting-Started-With-Code/tree/main/Some%20Codes%20To%20Try/C%2B%2B).
-## Pull requests welcome!
+## Pull requests are welcome!
 
 Spotted an **error**? Something doesn't make **sense**? Send me a [pull
 request](https://github.com/noffle/art-of-readme/pulls)! Please avoid making
