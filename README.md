@@ -1,6 +1,7 @@
 # Getting-Started-With-Code
 >This is to help learners who have just started to learn code.
 
+<img alt="languages" align="right" src="https://github.com/CH-ND-N/Getting-Started-With-Code/blob/main/Resources/Pictures/new1.jpg" height="300" width ="500">
 # CONTACT THE AUTHOR
 
 [![Github](http://i.imgur.com/0o48UoR.png)](https://github.com/CH-ND-N)
@@ -13,14 +14,13 @@ Contributions are always welcome!
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make is **greatly appreciated**.
 Please read the [CONTRIBUTION](CONTRIBUTION.md) first.
 ## How To
-1. **Fork** the Project
-2. Create your **Feature Branch**
-3. **Commit** your Changes
-4. **Push** to the Branch 
-5. Open a **Pull Request**
+1. **Fork** the Project.
+2. Create your **Feature Branch**.
+3. **Commit** your Changes.
+4. **Push** to the Branch .
+5. Open a **Pull Request**.
 
-<img alt="ccf" align="left" src="https://github.com/CH-ND-N/Getting-Started-With-Code/blob/main/Resources/Pictures/what-is-a-programming-language.png" width="300">
-<br>
+<img alt="languages" align="right" src="https://github.com/CH-ND-N/Getting-Started-With-Code/blob/main/Resources/Pictures/what-is-a-programming-language.png" height="300" width ="500">
 
 
 
