@@ -13,7 +13,7 @@ Welcome to Getting-Started-With-code ! We welcome new contributors; even those m
 
 Even if you're an experienced open source contributor, there are things that might trip you up. Once you've submitted your PR, Travis-CI will run a linter, often finding little issues with spacing or alphabetization. If you get a green button, everything is ready for review, but if not, click on the travis link to find out what the linter didn't like. Fix the problem and add a commit to your PR.
 
-<img alt="languages" align="center" src="https://github.com/CH-ND-N/Getting-Started-With-Code/blob/main/Resources/Pictures/languages.png" height="300" width ="1000">
+<img alt="languages" align="center" src="languages.png" height="300" width ="1000">
 
 Finally, if you're not sure that the resource you want to add is appropriate for Free-Programming-Books, read through the guideline.This project welcomes contributions and suggestions.
 To Know more please refer to [Readme.md](https://github.com/CH-ND-N/Getting-Started-With-Code/blob/main/README.md).
