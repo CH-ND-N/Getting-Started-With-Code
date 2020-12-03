@@ -1,7 +1,7 @@
 # Getting-Started-With-Code
->This is to help learners who have just started to learn code.
+>This is to help learners who have just started to learn code.<img alt="languages" align="right" src="https://github.com/CH-ND-N/Getting-Started-With-Code/blob/main/Resources/Pictures/new1.jpg" height="100" width ="300">
 
-<img alt="languages" align="right" src="https://github.com/CH-ND-N/Getting-Started-With-Code/blob/main/Resources/Pictures/new1.jpg" height="300" width ="500">
+
 # CONTACT THE AUTHOR
 
 [![Github](http://i.imgur.com/0o48UoR.png)](https://github.com/CH-ND-N)
