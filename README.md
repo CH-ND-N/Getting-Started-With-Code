@@ -12,13 +12,17 @@
 Contributions are always welcome!
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make is **greatly appreciated**.
 Please read the [CONTRIBUTION](CONTRIBUTION.md) first.
-
 ## How To
 1. **Fork** the Project
 2. Create your **Feature Branch**
 3. **Commit** your Changes
 4. **Push** to the Branch 
 5. Open a **Pull Request**
+
+<img alt="ccf" align="left" src="https://github.com/CH-ND-N/Getting-Started-With-Code/blob/main/Resources/Pictures/what-is-a-programming-language.png" width="300">
+<br>
+
+
 
 You can further refer to the resources [**here**](HOWTO.md).
 
